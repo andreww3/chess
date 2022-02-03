@@ -13,9 +13,9 @@ function showGrid() {
   for(var i=0; i<8; i++) {
     for(var j=0; j<8; j++) {
       if((i+j)%2 == 0) {
-        fill(#DEB887);
+        fill("#DEB887");
       } else {
-        fill(#805232);
+        fill("#805232");
       }
       rect(i*tileSize, j*tileSize, tileSize, tileSize);
     }
