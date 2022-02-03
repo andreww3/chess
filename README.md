@@ -1,2 +1,1 @@
-# playground
-Playground for GitHub pages
+# chess
